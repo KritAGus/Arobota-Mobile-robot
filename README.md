@@ -7,4 +7,4 @@ connecting with STM32 to drive motors with PD control
 - Gmapping.launch for create map from lidar by hector-slam package
 
 
-- Moverobot.py for sending action massage moving robot to target position
+- Moverobot.py for sending action massage moving robot to target positions
