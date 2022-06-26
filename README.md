@@ -1,4 +1,4 @@
-# Arobota-Mobile-robot
+# Arobota-MobileRobot
 
 Autonomous 2-wheel mobile robot with rplidarS1 using ROS to handle navigation and path-planning 
 connecting with STM32 to drive motors with PD control
